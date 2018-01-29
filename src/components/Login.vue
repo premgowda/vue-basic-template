@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import logo from '../components/logo'
+// import logo from '../components/logo'
 
 export default {
   name: 'login',
