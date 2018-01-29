@@ -1,7 +1,7 @@
 <template>
     <div>
         <h1>Login</h1>
-        <logo size="200"></logo>
+        <!--<logo size="200"></logo>-->
     </div>
 </template>
 
